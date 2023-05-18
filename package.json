@@ -1,0 +1,32 @@
+{
+  "name": "learning",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "alert": "^5.1.4",
+    "config": "^3.3.9",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "jade": "^1.9.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.4",
+    "morgan": "~1.9.1",
+    "multer": "^1.4.5-lts.1",
+    "pug": "^3.0.2",
+    "swagger": "^0.7.5",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2",
+    "twilio": "^4.11.0",
+    "typescript": "^5.0.4",
+    "winston": "^3.8.2",
+    "winston-mongodb": "^5.1.1",
+    "winston-mongoose": "^0.0.2-beta"
+  }
+}
