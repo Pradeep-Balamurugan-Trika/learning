@@ -1,0 +1,12 @@
+{
+  "name": "typecripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./build/l.js",
+  "scripts": {
+    "start:build": "tsc -w",
+    "start": "nodemon ./build/l.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
